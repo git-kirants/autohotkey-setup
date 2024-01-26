@@ -60,4 +60,4 @@ SearchOnPlatform(platformUrl)
 ; Define hotkeys for searching on different platforms
 Capslock & g::SearchOnPlatform("https://www.google.com/search?q")
 Capslock & y::SearchOnPlatform("https://www.youtube.com/search?q")
-Capslock & a::SearchOnPlatform("https://www.amazon.co.uk/s?k")
+Capslock & a::SearchOnPlatform("https://www.amazon.in/s?k")
