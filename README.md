@@ -24,8 +24,9 @@ Make sure you have AutoHotKey installed on your system. If not, you can download
    ```autohotkey
    Run, C:\Users\kiran\Downloads
    ```
+   **it can be anything that has a local address**
 
-3. Replace `" C:\Users\kiran\Downloads` with the actual target address of the application on your system.
+3. Replace `" C:\Users\kiran\Downloads"` with the actual target address of the application on your system.
 
 ## Usage
 
