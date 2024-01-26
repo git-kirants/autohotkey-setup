@@ -46,10 +46,6 @@ If you encounter any issues or have questions, please refer to the [AutoHotKey d
 
 If you would like to contribute to the development of this script, feel free to fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 
 Special thanks to the AutoHotKey community for their valuable contributions and support.
